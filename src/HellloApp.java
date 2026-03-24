@@ -8,7 +8,7 @@
  * UC 2: Display User Name - The application should accept a user's name as
  * a command-line argument and display a personalized greeting.
  *
- * @author AKshdeep Singh
+ * @author Akshdeep Singh
  * @version 2.0
  * @since UC1
  */
